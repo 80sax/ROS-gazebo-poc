@@ -1,6 +1,4 @@
-# Assignment
-
-It runs a Gazebo simulation in Jenkins
+# It runs a Gazebo simulation in Jenkins
 
 ## Jenkins Pipeline
 To run the pipeline click on `Build with Parameters`
